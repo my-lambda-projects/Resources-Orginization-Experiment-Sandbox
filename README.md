@@ -2,6 +2,6 @@
 
 
 
-[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
+[![Build Status](https://travis-ci.org/{bgoonz}/{Resources-Orginization-Experiment-Sandbox}.png?branch=master)](https://travis-ci.org/{bgoonz}/{Resources-Orginization-Experiment-Sandbox})
 
 
