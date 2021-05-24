@@ -1,2 +1,2 @@
-# Resources-Orginization-Experiment-Sandbox
-Aux Resources
+# Initial page
+
