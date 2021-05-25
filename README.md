@@ -6,6 +6,10 @@
 <div align="center">
 
 
+  ![trello](https://github.com/bgoonz/Front-End/blob/bryan-guner/aux-resources/images/trello-board.png?raw=true)
+  
+  
+  
 
 ![snooplion](https://thumbs.gfycat.com/AdmiredAdventurousCaiman-size_restricted.gif)
 
