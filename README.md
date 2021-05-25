@@ -28,7 +28,6 @@
 | Resource Links  | [Links](https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/Resource-Links.md)|Post links to potentially useful packages and resources ...etc.. |
   
   
-  https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/Resource-Links.md
   
   </div>
 
