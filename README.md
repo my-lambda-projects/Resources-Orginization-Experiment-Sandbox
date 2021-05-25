@@ -25,9 +25,10 @@
 | Front End Wiki | [Frontend](https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/FRONTEND-WIKI.md) |  |
 | Landing Page So Far  | [landing](https://potluck-planner-landing.netlify.app/)  | I need a short bio for everyone |
 | Questions Board  | [q&a](https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/questions.md)| A place to record our questions |
+| Resource Links  | [Links](https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/Resource-Links.md)|Post links to potentially useful packages and resources ...etc.. |
   
   
-  
+  https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/Resource-Links.md
   
   </div>
 
