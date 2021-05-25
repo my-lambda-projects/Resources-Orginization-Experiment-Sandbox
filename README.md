@@ -1,10 +1,10 @@
 # FT-Potluck-Planner-5
 
-
+<div align="center">
 
 ![potluck](https://media0.giphy.com/media/l3vRnbaQ3y5NRnz7a/giphy.gif)
 
-
+</div>
 
 | Resource | Link | Note |
 |-|-|-|
