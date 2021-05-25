@@ -7,7 +7,7 @@
 
 ![potluck](https://media0.giphy.com/media/l3vRnbaQ3y5NRnz7a/giphy.gif)
 
-
+![snooplion](https://thumbs.gfycat.com/AdmiredAdventurousCaiman-size_restricted.gif)
 
 | Resource | Link | Note |
 |-|-|-|
