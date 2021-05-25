@@ -8,7 +8,7 @@
 
   ![trello](https://github.com/bgoonz/Front-End/blob/bryan-guner/aux-resources/images/trello-board.png?raw=true)
   
-  
+  ![wireframe](./wireframe.png)
   
 
 ![snooplion](https://thumbs.gfycat.com/AdmiredAdventurousCaiman-size_restricted.gif)
