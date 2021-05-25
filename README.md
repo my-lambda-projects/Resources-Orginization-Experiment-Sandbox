@@ -24,7 +24,7 @@
 | Backend Wiki | [backend](https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/BACKEND-WIKI.md) |  |
 | Front End Wiki | [Frontend](https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/FRONTEND-WIKI.md) |  |
 | Landing Page So Far  | [landing](https://potluck-planner-landing.netlify.app/)  | I need a short bio for everyone |
-
+| Questions Board  | [q&a](https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/questions.md)| A place to record our questions |
   
   
   
