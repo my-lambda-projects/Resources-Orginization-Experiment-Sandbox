@@ -1,3 +1,11 @@
+# FT-Potluck-Planner-5
+
+
+
+![potluck](https://media0.giphy.com/media/l3vRnbaQ3y5NRnz7a/giphy.gif)
+
+
+
 | Resource | Link | Note |
 |-|-|-|
 | Trello | [trello-board](https://trello.com/b/JN4HNaJX/kanban-template) |  |
