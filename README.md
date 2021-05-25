@@ -23,7 +23,7 @@
 | Build Week Instructions | [notion build week](https://www.notion.so/Git-for-Build-Sprint-20ce2d09dc0e47b1af5d51821b54b810) |  |
 | Backend Wiki | [backend](https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/BACKEND-WIKI.md) |  |
 | Front End Wiki | [Frontend](https://github.com/FT-Potluck-Planner-5/Resources-Orginization-Experiment-Sandbox/blob/main/FRONTEND-WIKI.md) |  |
-|  |  |  |
+| Landing Page So Far  | [landing](https://potluck-planner-landing.netlify.app/)  | I need a short bio for everyone |
 
   
   
