@@ -2,7 +2,7 @@
 # Front End Wiki
 
 
-### Preposed hierarchy ([Bryan]()https://github.com/bgoonz):
+### Preposed hierarchy ([Bryan](https://github.com/bgoonz):
 
 ```
 .
