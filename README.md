@@ -10,6 +10,8 @@
   
   ![wireframe](./wireframe.png)
   
+  
+  ![figma](wire-frames.png)
 
 ![snooplion](https://thumbs.gfycat.com/AdmiredAdventurousCaiman-size_restricted.gif)
 
